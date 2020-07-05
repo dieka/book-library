@@ -35,7 +35,7 @@ npm install
 # or
 yarn install
 ```
-Configure your web api url in .env configuration (example: port 8000).
+Configure your Vue.JS environment variables (.env), and set web api url (example: port 8000).
 ```dosini
 VUE_APP_API_URL=http://localhost:8000/
 ```
