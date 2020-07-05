@@ -4,7 +4,7 @@ Simple CRUD web application made with Vue.JS and Lumen framework.
 ## Installation (Development Mode)
 
 ### 1. Database Restore (PostgreSQL)
-Restore /databases/dlib_db.sql to your empty PostgreSQL database.
+Restore /databases/blib_db.sql to your empty PostgreSQL database.
 
 ### 2. Backend API (library-api)
 
