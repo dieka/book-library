@@ -61,8 +61,8 @@ const moduleAuth = {
           password: authData.password,
           grant_type: "password",
           scope: "*",
-          client_id: "1",
-          client_secret: "8iQsfEoFCIVxnr8UjXmd9zcEzu04B6B8FxmWp0bV"
+          client_id: "2",
+          client_secret: "TJHJzhCl1s1sHKx6h4HbE45dAZU7c5ZOwMpmgFCD"
         })
         .then(res => {
           commit("authUser", {
