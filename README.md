@@ -2,7 +2,11 @@
 Simple CRUD web application made with Vue.JS and Lumen framework.
 
 ## Demo Application
-http://blib-app.herokuapp.com/
+Demo Url: http://blib-app.herokuapp.com/
+```dosini
+Username: admin
+Password: 12345678
+```
 
 ## Installation (Development Mode)
 
@@ -51,7 +55,7 @@ yarn serve
 Login to admin panel
 ```dosini
 Username: admin
-Password: 123456
+Password: 12345678
 ```
 
 
