@@ -1,6 +1,9 @@
 # Book Library
 Simple CRUD web application made with Vue.JS and Lumen framework.
 
+## Demo Application
+http://blib-app.herokuapp.com/
+
 ## Installation (Development Mode)
 
 ### 1. Database Restore (PostgreSQL)
