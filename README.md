@@ -45,6 +45,12 @@ npm run serve
 # or 
 yarn serve
 ```
+Login to admin panel
+```dosini
+Username: admin
+Password: 123456
+```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
