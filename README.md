@@ -1,5 +1,5 @@
 # Book Library
-Simple CRUD web application made with Vue.JS and Lumen framework.
+Book library web application made with Vue.JS and Lumen framework.
 
 ## Demo Application
 Demo Url: http://blib-app.herokuapp.com/
